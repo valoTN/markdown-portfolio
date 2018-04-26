@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+1. Crime/mystery
+1. Real life stories
+1. Drama
+1. Comedy
+
+* Programming
+* Eating
+* Watching movies
+  * Series too
